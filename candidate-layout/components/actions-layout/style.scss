@@ -1,0 +1,12 @@
+.action-box{
+    position: absolute;
+    bottom: 0px;
+    background-color: #fff;
+    width: calc(100% - 32px);
+    text-align: end;
+    padding: 16px 0px;
+
+    button {
+        margin-left: 12px;
+    }
+}
